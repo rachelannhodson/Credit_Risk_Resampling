@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Credit Risk Resampling -- Report
 
 ## Overview of the Analysis
 
@@ -14,12 +14,12 @@ In this section, describe the analysis you completed for the machine learning mo
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model 1:
+* Machine Learning Model_Original:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 
 
 
-* Machine Learning Model 2:
+* Machine Learning Model_Resampled:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 
 ## Summary
